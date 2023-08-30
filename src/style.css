@@ -13,14 +13,13 @@ body{
 }
 .header{
     background: black;
-    padding: 10px 30px;
 }
 .navbar{
     text-align: center;
     
 }
 .navbar__logo{
-    width: min( 150px, 150% );
+    width: min( 180px, 150% );
 }
 
 .navbar__title{
